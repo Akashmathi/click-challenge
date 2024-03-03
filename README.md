@@ -6,7 +6,7 @@
     <title>Reaction Tester</title>
     <style>
         body {
-            background-color: rgb(9, 114, 200);
+            background-color: red;
             margin: 0;
             display: flex;
             flex-direction: column;

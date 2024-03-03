@@ -1,4 +1,3 @@
-# click-challenge
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,8 +19,8 @@
         #container {
             background-color: white;
             position: relative;
-            width: 1500px;
-            height: 750px;
+            width: 1000px;
+            height: 600px; /* corrected height */
             border: 2px solid #000;
             overflow: hidden;
             margin-top: 20px;
